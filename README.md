@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, we will create a password input field on a website. This password field will include an icon that allows users to hide and display the password entered in the input field. The icon will also be updated accordingly when clicked. We will implement the toggle functionality to hide/show the password using HTML, CSS, and JavaScript step by step.
+In this project, I created a password input field on a website. This includes an icon that allows users to hide and display the password entered in the input field. The icon also is updated accordingly when clicked. Toggle functionality to hide/show the password using HTML, CSS, and JavaScript.
 
 ## Features
 
